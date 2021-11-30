@@ -1,6 +1,6 @@
-let sayi1
-let sayi2
-let sonuc
+const sayi1
+const sayi2
+const sonuc
 
 
 function topla(sayi1,sayi2,sonuc){
