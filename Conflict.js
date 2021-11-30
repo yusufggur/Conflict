@@ -1,4 +1,4 @@
-let sayi1
+let number1
 let sayi2
 let sonuc
 
